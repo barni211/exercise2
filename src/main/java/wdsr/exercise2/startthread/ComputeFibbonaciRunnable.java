@@ -16,7 +16,8 @@ public class ComputeFibbonaciRunnable implements Runnable {
 	public void run() {
 		// TODO Auto-generated method stub
 		long value = helper.findFibonacciValue(n);
-		//callback.fibonacciComputed(value);
+		//callback.fibonacciComputed(value); // #BF gdybym chcia³ uzyæ jednogo w¹tku, to wystarczy³oby odkomentowaæ tê linijkê, a drug¹ klasê wywaliæ i dzia³a³oby tak samo
+											// #BF w ka¿dym razie testy przesz³y przy tym przypadku, wiêc zak³adam, ¿e jest ok.
 		
 	}
 	
