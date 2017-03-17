@@ -1,0 +1,1 @@
+INDEX VERSION 1.129+E:\Javka\Systemy rozproszone\Zajecia 4\exercise2\.metadata\.plugins\org.eclipse.jdt.core
