@@ -26,5 +26,6 @@ public class BusinessServiceWithExecutor {
 			callback.fibonacciComputed(value);
 		});
 		
+		executor.shutdown();
 	}
 }
