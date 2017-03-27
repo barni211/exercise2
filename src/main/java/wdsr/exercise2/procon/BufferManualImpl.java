@@ -1,8 +1,6 @@
 package wdsr.exercise2.procon;
 
 import java.util.ArrayList;
-import java.util.concurrent.locks.Lock;
-import java.util.concurrent.locks.ReentrantLock;
 
 /**
  * Task: implement Buffer interface without using any *Queue classes from java.util.concurrent package.
